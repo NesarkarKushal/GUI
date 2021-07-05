@@ -1,7 +1,7 @@
 from tkinter import *
 
 window=Tk()
-window.title("Main")
+window.title("EdGate Technologies")
 window.geometry("400x400")
 
 def clicker(event=""):
