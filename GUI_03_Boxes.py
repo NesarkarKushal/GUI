@@ -31,5 +31,5 @@ txt = scrolledtext.ScrolledText(window,width=40,height=10)
 txt.insert(INSERT,'You can put any Details here\n')
 
 txt.pack()
-
+ 
 window.mainloop()
