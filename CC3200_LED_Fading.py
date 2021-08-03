@@ -23,5 +23,4 @@ def click():
 btn1 = Button(window, text="Clickk", command=click)
 btn1.pack()
 
-
 window.mainloop()
